@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Bio Activity</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="school">School</string>
+    <string name="year_of_graduation">Year of Graduation</string>
+    <string name="degree">Degree</string>
+    <string name="major">Major</string>
+    <string name="favorite_activities">Favorite Activities</string>
+    <string name="submit">Submit</string>
+</resources>
